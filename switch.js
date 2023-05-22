@@ -10,5 +10,6 @@ switch (numero) {
         console.log("Soy un tres")
     default:
         console.log("No soy ninguna de las opciones")
+        //El break es importante para no seguir validando
         break;
 }
